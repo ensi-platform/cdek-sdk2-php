@@ -43,7 +43,7 @@
 Установка осуществляется с помощью менеджера пакетов Composer
 
 ```bash
-composer require cdek-it/sdk2.0
+composer require ensi/cdek-sdk2-php
 ```
 
 
